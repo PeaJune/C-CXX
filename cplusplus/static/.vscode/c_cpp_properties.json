@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/**",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++/mingw32",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/include/c++/backward",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/include",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../include",
+                "c:/mingw/bin/../lib/gcc/mingw32/8.2.0/include-fixed"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

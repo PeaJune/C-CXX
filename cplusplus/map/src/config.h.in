@@ -1,0 +1,4 @@
+#define map_version_major @Map_version_major@
+#define map_version_minor @Map_version_minor@
+
+#define RELEASE 1
